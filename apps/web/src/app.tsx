@@ -111,7 +111,7 @@ const githubIconView = () => (
 // and hides with it.
 const githubButtonView = (shown: boolean) => (
   <a
-    href='https://github.com/rinn7e/rinn7e.github.io'
+    href='https://github.com/rinn7e/me'
     target='_blank'
     rel='noopener noreferrer'
     aria-label='The source of this website on GitHub'

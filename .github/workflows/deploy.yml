@@ -1,5 +1,5 @@
 # Checks every push and pull request, and deploys the website (apps/web) to
-# GitHub Pages, served at rinn7e.com, on every push to master.
+# GitHub Pages, served at me.rinn7e.com, on every push to master.
 name: Deploy
 
 on:

@@ -2,16 +2,16 @@
   <img src="apps/web/public/favicon.svg" alt="R7 logo" width="128" height="128">
 </p>
 
-<h1 align="center">rinn7e.com</h1>
+<h1 align="center">me.rinn7e.com</h1>
 
 <p align="center">
-  The personal website: a face as colour ASCII art that breathes, blinks and turns its eyes red, and a second screen with the links.
+  The casual personal website: a face as colour ASCII art that breathes, blinks and turns its eyes red, and a second screen with the links.
 </p>
 
 <p align="center">
-  <a href="https://github.com/rinn7e/rinn7e.github.io/actions/workflows/deploy.yml"><img src="https://github.com/rinn7e/rinn7e.github.io/actions/workflows/deploy.yml/badge.svg" alt="Deploy"></a>
-  <a href="https://rinn7e.com/"><img src="https://img.shields.io/website?url=https%3A%2F%2Frinn7e.com&label=rinn7e.com" alt="rinn7e.com"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/rinn7e/rinn7e.github.io" alt="License: GPL-3.0"></a>
+  <a href="https://github.com/rinn7e/me/actions/workflows/deploy.yml"><img src="https://github.com/rinn7e/me/actions/workflows/deploy.yml/badge.svg" alt="Deploy"></a>
+  <a href="https://me.rinn7e.com/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fme.rinn7e.com&label=me.rinn7e.com" alt="me.rinn7e.com"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/rinn7e/me" alt="License: GPL-3.0"></a>
 </p>
 
 Screen 1 is the face; screen 2 shows the links. Both share one field of characters, and the face fades out of it to open screen 2.
@@ -51,9 +51,9 @@ The debug controls (frame rate, pause, blink, red eye and its style) show in the
 
 ## Deploy
 
-GitHub Pages serves the website at [rinn7e.com](https://rinn7e.com/). `.github/workflows/deploy.yml` checks every push and pull request (format, lint, types, tests, build) and deploys every push to `master`. The custom domain is set in the Pages settings of the repository, with "GitHub Actions" as the source.
+GitHub Pages serves the website at [me.rinn7e.com](https://me.rinn7e.com/). `.github/workflows/deploy.yml` checks every push and pull request (format, lint, types, tests, build) and deploys every push to `master`. The custom domain is set in the Pages settings of the repository, with "GitHub Actions" as the source.
 
-The old Elm site that lived in this repository is kept in the branch `archive/elm-site` and the tag `elm-site-final`.
+Until Nov 2026 this site lived in the repository `rinn7e/rinn7e.github.io`, at `rinn7e.com`, which now holds a placeholder for a future professional website. The old Elm site that lived there is kept in the branch `archive/elm-site` and the tag `elm-site-final`.
 
 ## License
 

@@ -1,8 +1,8 @@
 {
-  "name": "rinn7e.github.io",
+  "name": "me",
   "private": true,
   "license": "GPL-3.0-only",
-  "description": "The personal website at rinn7e.com",
+  "description": "The personal website at me.rinn7e.com",
   "packageManager": "pnpm@11.9.0",
   "engines": {
     "node": ">=24"
